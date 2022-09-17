@@ -1,0 +1,59 @@
+
+body{
+    background-color: #9F9F9F;
+}
+
+
+.logo{
+ width: 40.42px;
+}
+.navbar{
+    width: 100%;
+}
+.nav-item a {
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.navbar{
+    background-color: #562EFF
+    ;
+}
+.top-player{
+    background-color: #FFFFFF;
+   margin-top: 25px;
+   margin-bottom: 25px;
+    border-radius: 5px;
+}
+.topplayer{
+
+color: #562EFF
+;
+font-family: 'poppins';
+font-weight: bold;
+font-size: 24px;
+}
+.player-name{
+    padding-left: 50px;
+}
+.player{
+    padding-bottom: 25px;
+}
+hr{
+    color: grey;
+    width:70%;
+    margin: auto
+}
+.imgblog{
+    width: 224px;
+    height: 127px;
+padding-left: 25px;
+}
+.card-text{
+    color: #ED6B4F
+    ;
+}
+.rat{
+    color: grey;
+}
